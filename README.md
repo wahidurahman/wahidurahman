@@ -1,7 +1,7 @@
 ### Hi there 👋 My name is Wahidur!
 
-                ||     ||"                 ||     ||
-              ""||||||||""               ||||||||||""
+               ||     ||"                 ||     ||
+             ""|||||||||""               ||||||||||""
             "" |||||||||  """           ""||||||||| ""    I'm from San Francisco,CA...
            ""  ||     ||""  """"     """  ||     ||  ""         I'm a Data-nerd and product-guy...
          ""    ||     || """"" """""""    ||     ||"   """                I am also a Senior at UBC!
