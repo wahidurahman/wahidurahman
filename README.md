@@ -13,29 +13,7 @@
         ""     ||     ||                  ||     ||
       ""     |||||||||||||||||||||||||||||||||||||||| 
       
-      
-      
-      
-      
- 
-                                                                             xxxx
-                                                              xx  xxxxxxxxxxx   xx xxxxxxxx
-                                                           xxx xxx      xx       xxx      xx   xxx
-                 |||   |||                  ||     ||      x    x                          xxxxx  xxxx
-               ""|||||||||""               ||||||||||""                                              xx
-              "" |||||||||  """           ""||||||||| ""    I'm from San Francisco,CA...            xxxxx
-             ""  ||   ""||""  """"     """  ||     ||  ""         I'm a data-nerd and product-guy...    x
-           ""    || """ || """"" """""""    ||     ||"   """                I'm also a Senior at UBC!   x
-          ""    |||||||||||    """""     ""||||||||||"""   """                                      xxxx
-         "      ""|     ||         """""""  ||     ||  """    ""    xxx       xxx        x         x
-       ""      ""||     ||                  ||     ||    """"""    xx xxx  xxxx xxx    xxxx      xxx
-    """"     "" |||||||||||                |||||||||||                  xxxx      xxxxxx  xxxxxxxx
-            ""   ||     ||                  ||     ||
-          ""     ||     ||                  ||     ||
-        ""     ||||||||||||||||||||||||||||||||||||||||
-
-                                        
-                                                                                              
+                            
 
 
 
