@@ -14,13 +14,6 @@
       ""     |||||||||||||||||||||||||||||||||||||||| 
                ||     ||                  ||     ||
                ||     ||                  ||     ||            
-### Contact Me
-
-
- <a href="https://www.linkedin.com/in/wahidurr/" target="blank"><img align="center"
-         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
-         alt="azzar" height="30"/></a>
-
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -49,3 +42,10 @@
 ![Firebase](https://img.shields.io/badge/-Firebase-05122A?style=flat&logo=firebase&logoColor=FFCA28)&nbsp;
 ![Tensorflow](https://img.shields.io/badge/-Tensorflow-05122A?style=flat&logo=tensorflow&logoColor=FF6F00)&nbsp;
 ![Latex](https://img.shields.io/badge/-Latex-05122A?style=flat&logo=latex&logoColor=008080)&nbsp;
+
+### Contact Me
+
+
+ <a href="https://www.linkedin.com/in/wahidurr/" target="blank"><img align="center"
+         src="https://img.shields.io/badge/linkedin-%231DA1F2.svg?style=for-the-badge&logo=linkedin&logoColor=white"
+         alt="azzar" height="30"/></a>
